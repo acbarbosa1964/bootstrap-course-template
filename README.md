@@ -4,6 +4,8 @@ A simple Company Portfolio Template used in Basic Twitter Bootstrap Framework co
 
 [GoodLearn](http://www.goodlearn.org)
 
+![Screenshot](https://raw.githubusercontent.com/acbarbosa1964/bootstrap-course-template/master/screenshot/sample.gif)
+
 ### Credits
 ---
 
@@ -22,8 +24,6 @@ A simple Company Portfolio Template used in Basic Twitter Bootstrap Framework co
 - WOW - v1.1.2 - Matthieu Aussaguel - http://mynameismatthieu.com/WOW/
 - Source-code editor used in this project - Brackets - http://www.brackets.io
 
-
-![Screenshot](https://raw.githubusercontent.com/acbarbosa1964/acb-bootstrap-snippets/master/sample.gif)
 
 ## Install
 
