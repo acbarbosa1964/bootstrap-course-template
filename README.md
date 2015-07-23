@@ -4,6 +4,14 @@ A simple Company Portfolio Template used in Basic Twitter Bootstrap Framework co
 
 [GoodLearn](http://www.goodlearn.org)
 
+## Live Demo
+
+[DEMO](https://rawgit.com/acbarbosa1964/bootstrap-course-template/master/index.html)
+
+
+##Animated Gif Screenshots
+
+
 ![Screenshot](https://raw.githubusercontent.com/acbarbosa1964/bootstrap-course-template/master/screenshot/sample.gif)
 
 
