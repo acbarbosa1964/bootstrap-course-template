@@ -6,6 +6,14 @@ A simple Company Portfolio Template used in Basic Twitter Bootstrap Framework co
 
 ![Screenshot](https://raw.githubusercontent.com/acbarbosa1964/bootstrap-course-template/master/screenshot/sample.gif)
 
+
+## Install
+
+#### Git Clone
+
+1. Git clone this repository or Download Zip File
+2. Ready to use
+
 ### Credits
 ---
 
@@ -24,13 +32,6 @@ A simple Company Portfolio Template used in Basic Twitter Bootstrap Framework co
 - WOW - v1.1.2 - Matthieu Aussaguel - http://mynameismatthieu.com/WOW/
 - Source-code editor used in this project - Brackets - http://www.brackets.io
 
-
-## Install
-
-#### Git Clone
-
-1. Git clone this repository or Download Zip File
-2. Ready to use
 
 ### License
 ---
