@@ -2,25 +2,25 @@
 
 A simple Company Portfolio Template used in Basic Twitter Bootstrap Framework course.
 
-This template was create using follow [ACB Bootstrap Snippets](https://github.com/acbarbosa1964/acb-bootstrap-snippets):
----
+This template was created using follow [ACB Bootstrap Snippets](https://github.com/acbarbosa1964/acb-bootstrap-snippets):
+
 
 # Animated Portfolio Sample
 
-bs3portfoliocss
-bs3portfoliolibs
-bs3portfoliojs
-bs3portfoliomenu
-bs3portfoliocarouseltext
-bs3portfoliosocialbuttons
-bs3portfolioservices
-bs3portfoliopricetable
-bs3portfoliowork
-bs3portfolioteam
-bs3portfoliocontact
-bs3portfoliosignupform
-bs3portfoliocopyright
-
+- bs3container
+- bs3portfoliocss
+- bs3portfoliolibs
+- bs3portfoliojs
+- bs3portfoliomenu
+- bs3portfoliocarouseltext
+- bs3portfoliosocialbuttons
+- bs3portfolioservices
+- bs3portfoliopricetable
+- bs3portfoliowork
+- bs3portfolioteam
+- bs3portfoliocontact
+- bs3portfoliosignupform
+- bs3portfoliocopyright
 
 [GoodLearn](http://www.goodlearn.org)
 
